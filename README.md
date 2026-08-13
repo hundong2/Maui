@@ -4,6 +4,8 @@
 
 # .NET MAUI Community Toolkit
 
+[English](README.md) | [한국어](README_kor.md) | [한국어 학습 가이드](guide/README.md)
+
 The .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that developers tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with .NET MAUI. 
 
 All features are contributed by you, our amazing .NET community, and maintained by a core set of maintainers.
@@ -17,6 +19,8 @@ And – the best part – the features you add to the .NET MAUI Toolkit may one 
 All of the [documentation](https://learn.microsoft.com/dotnet/communitytoolkit/maui/get-started?tabs=CommunityToolkitMaui) for `CommunityToolkit.Maui` can be found here on [Microsoft Learn](https://learn.microsoft.com/dotnet/communitytoolkit/maui/get-started?tabs=CommunityToolkitMaui):
 
 https://learn.microsoft.com/dotnet/communitytoolkit/maui/get-started
+
+한국어로 저장소 구조와 사용법을 단계별로 학습하려면 [한국어 학습 가이드](guide/README.md)를 참고하세요.
 
 ## Installation
 
